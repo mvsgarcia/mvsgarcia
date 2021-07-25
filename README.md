@@ -19,5 +19,12 @@ I'm a Computer Engineering student from Mapúa University who is learning web de
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS logo" title="NodeJS" height="25" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="25" />
 
+## :heart_eyes_cat: My values 
+:hourglass: Learning is a lifelong process <br>
+:thought_balloon: Never stop questioning <br>
+:sunny: Appreciate the little things in life 
+:sparkling_heart: We have the ability to choose to respond with kindness.
+:rainbow: Love wins
+
 ## 🔍  Where to find me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mvsgarcia/)
