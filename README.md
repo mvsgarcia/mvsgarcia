@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Miecaela Garcia (She/Her)
+## 👋 Hi! I'm Miecaela Garcia (She/Her)
 
 I'm a Computer Engineering from Mapúa University who is passionate in web development :globe_with_meridians:. I love applying my creativity in the world of technology to make ideas into reality :bulb:.
 
