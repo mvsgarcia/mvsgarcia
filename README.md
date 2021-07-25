@@ -22,8 +22,8 @@ I'm a Computer Engineering student from Mapúa University who is learning web de
 ## :heart_eyes_cat: My values 
 :hourglass: Learning is a lifelong process <br>
 :thought_balloon: Never stop questioning <br>
-:sunny: Appreciate the little things in life 
-:sparkling_heart: We have the ability to choose to respond with kindness.
+:sunny: Appreciate the little things in life <br>
+:sparkling_heart: We have the ability to choose to respond with kindness <br>
 :rainbow: Love wins
 
 ## 🔍  Where to find me
