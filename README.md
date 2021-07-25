@@ -12,7 +12,7 @@ I'm a Computer Engineering from Mapúa University who is passionate in web devel
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel" height="25" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQlite logo" title="SQlite" height="25" />
 
-## What I am interested in learning at some point
+## :eyes: What I am interested in learning at some point
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="ExpressJS logo" title="ExpressJS" height="25" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
