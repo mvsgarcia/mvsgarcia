@@ -13,7 +13,7 @@ I'm a Computer Engineering student from Mapúa University who is learning web de
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel" height="25" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQlite logo" title="SQlite" height="25" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery logo" title="JQuery" height="25" />
-<img src=" 	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js logo" title="Express.js" height="25" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js logo" title="Express.js" height="25" />
 
 
 ## :eyes: What I'm interested in learning at some point
