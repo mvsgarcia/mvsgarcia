@@ -15,9 +15,7 @@ I'm a Computer Engineering student from Mapúa University who is learning web de
 
  
 ## :book: What I'm currently learning / improving on
-<img src="https://img.shields.io/badge/UI%2FUX-research%20and%20design-brightgreen?style=for-the-badge" alt="UI/UX" title="UI/UX" height="25" />
-<img src="https://img.shields.io/badge/Project-Management-blue?style=for-the-badge" alt="PM" title="PM" height="25" />
-<img src="https://img.shields.io/badge/software-testing-orange?style=for-the-badge" alt="Testing" title="Testing" height="25" />
+<img src="https://img.shields.io/badge/UI%2FUX-research%20and%20design-brightgreen?style=for-the-badge" alt="UI/UX" title="UI/UX" height="25" /> <img src="https://img.shields.io/badge/Project-Management-blue?style=for-the-badge" alt="PM" title="PM" height="25" /> <img src="https://img.shields.io/badge/software-testing-orange?style=for-the-badge" alt="Testing" title="Testing" height="25" />
 
 
 ## :eyes: What I'm interested in learning at some point
